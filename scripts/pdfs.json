@@ -1,77 +1,87 @@
 [
   {
     "year": 2024,
-    "file": "archives/2024/Numero1.pdf",
+    "file": "2024/Numero1.pdf",
+    "label": "Numero1"
+  },
+  {
+    "year": 2024,
+    "file": "2024/Numéro 1.pdf",
     "label": "Numéro 1"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero2.pdf",
+    "file": "2024/Numéro 2.pdf",
     "label": "Numéro 2"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero3.pdf",
+    "file": "2024/Numéro 3.pdf",
     "label": "Numéro 3"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero4.pdf",
+    "file": "2024/Numéro 4.pdf",
     "label": "Numéro 4"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero5.pdf",
+    "file": "2024/Numéro 5.pdf",
     "label": "Numéro 5"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero6.pdf",
+    "file": "2024/Numéro 6.pdf",
     "label": "Numéro 6"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero6(pre-censure).pdf",
+    "file": "2024/Numéro 6 (pré-censure).pdf",
     "label": "Numéro 6 (Pré Censure)"
   },
   {
     "year": 2024,
-    "file": "archives/2024/Numero7.pdf",
+    "file": "2024/Numéro 7.pdf",
     "label": "Numéro 7"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PH2023-PH01.pdf",
-    "label": "Ph 2023   Ph 01"
+    "file": "2023/PH2023-PH01.pdf",
+    "label": "Ph2023 Ph01"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PHaucheuse02.pdf",
+    "file": "2023/PHaucheuse 01.pdf",
+    "label": "Phaucheuse 01"
+  },
+  {
+    "year": 2023,
+    "file": "2023/PHaucheuse 02.pdf",
     "label": "Phaucheuse 02"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PHaucheuse03.pdf",
+    "file": "2023/PHaucheuse 03.pdf",
     "label": "Phaucheuse 03"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PHaucheuse04.pdf",
+    "file": "2023/PHaucheuse 04.pdf",
     "label": "Phaucheuse 04"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PHaucheuse05.pdf",
+    "file": "2023/PHaucheuse 05.pdf",
     "label": "Phaucheuse 05"
   },
   {
     "year": 2023,
-    "file": "archives/2023/PHaucheuse06.pdf",
+    "file": "2023/PHaucheuse 06.pdf",
     "label": "Phaucheuse 06"
   },
   {
     "year": 2023,
-    "file": "archives/2023/Rentree_editionCMU.pdf",
-    "label": "Rentrée   Édition Cmu"
+    "file": "2023/PHaucheuse spécial.pdf",
+    "label": "Phaucheuse Spécial"
   }
 ]

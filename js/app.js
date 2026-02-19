@@ -1,4 +1,4 @@
-fetch('/web_ph_2026/scripts/pdfs.json')
+fetch('./scripts/pdfs.json')
     .then(reponse => reponse.json())
     .then(journaux => {
 
@@ -8,7 +8,7 @@ fetch('/web_ph_2026/scripts/pdfs.json')
         const dernierNumero = journauxAnneeMax[journauxAnneeMax.length - 1];
 
         document.getElementById('une-titre').textContent = `${dernierNumero.label} (${dernierNumero.year})`;
-        document.getElementById('une-bouton').href = dernierNumero.file;
+        document.getElementById('une-bouton').href = "./archives/" + dernierNumero.file;
 
         const zoneArchives = document.getElementById('zone-archives');
         zoneArchives.innerHTML = '';
@@ -26,7 +26,7 @@ fetch('/web_ph_2026/scripts/pdfs.json')
                         <div class="icone-pdf">PDF</div>
                         <div class="infos-journal">
                             <h4>${journal.label}</h4>
-                            <a href="${journal.file}" target="_blank" class="bouton-lire">Ouvrir</a>
+                            <a href="./archives/${journal.file}" target="_blank" class="bouton-lire">Ouvrir</a>
                         </div>
                     </div>
                 `;
