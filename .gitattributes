@@ -1,0 +1,5 @@
+# Ignore all PDFs in Git diffs and blame
+*.pdf binary
+/archives/* binary
+*.pdf diff=off
+/archives/**/* diff=off
