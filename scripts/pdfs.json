@@ -1,7 +1,67 @@
 [
   {
+    "year": 2026,
+    "file": "2026/PH 0.pdf",
+    "label": "Ph 0"
+  },
+  {
+    "year": 2026,
+    "file": "2026/PH 1.pdf",
+    "label": "Ph 1"
+  },
+  {
+    "year": 2026,
+    "file": "2026/PH 2.pdf",
+    "label": "Ph 2"
+  },
+  {
+    "year": 2026,
+    "file": "2026/PH 3.pdf",
+    "label": "Ph 3"
+  },
+  {
+    "year": 2025,
+    "file": "2025/PHocus 1.pdf",
+    "label": "Phocus 1"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 2.pdf",
+    "label": "Phocus 2"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 3.pdf",
+    "label": "Phocus 3"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 4.pdf",
+    "label": "Phocus 4"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 5.pdf",
+    "label": "Phocus 5"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 6.pdf",
+    "label": "Phocus 6"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 7.pdf",
+    "label": "Phocus 7"
+  },
+  {
+    "year": 2025,
+    "file": "2025/Phocus 8.pdf",
+    "label": "Phocus 8"
+  },
+  {
     "year": 2024,
-    "file": "2024/Numero1.pdf",
+    "file": "2024/Numéro 1.pdf",
     "label": "Numéro 1"
   },
   {
@@ -31,18 +91,8 @@
   },
   {
     "year": 2024,
-    "file": "2024/Numéro 6 (pré-censure).pdf",
-    "label": "Numéro 6 (Pré Censure)"
-  },
-  {
-    "year": 2024,
     "file": "2024/Numéro 7.pdf",
     "label": "Numéro 7"
-  },
-  {
-    "year": 2023,
-    "file": "2023/PH2023-PH01.pdf",
-    "label": "Ph2023 Ph01"
   },
   {
     "year": 2023,
